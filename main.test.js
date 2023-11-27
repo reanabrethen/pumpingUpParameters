@@ -20,15 +20,15 @@ function modYBy(num1){
 }
 
 function opposite(num2){
-  z = (-num2)
+  z = -num2
 }
 
-function makeFullName(str){
-  name = name + " " + str
+function makeFullName(lastName){
+  name = name + " " + lastName
 }
 
-function yellAt(string){
-  greeting = greeting + ", " + string + "!"
+function yellAt(str){
+  greeting = greeting + ", " + str + "!"
 }
 
 /*********************************************************************************************************************
